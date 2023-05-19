@@ -1,3 +1,4 @@
 ## Evidence
 
-https://github.com/jinmayamashita/sample-nextjs-spa/assets/9401060/4b4591a3-e14b-4835-8755-505898d3af7b
+https://github.com/jinmayamashita/sample-nextjs-ssr/assets/9401060/cd3f3c90-2275-4e53-a5de-6c4ec2c06d89
+
